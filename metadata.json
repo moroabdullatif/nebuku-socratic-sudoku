@@ -1,0 +1,6 @@
+{
+  "name": "Nebuku - Liquid Logic & Socratic Sudoku Coach",
+  "description": "Educational logic-learning web app featuring Apple Liquid Glass aesthetics, dynamic Sudoku puzzles, adaptive difficulty calibration, and a Socratic AI Logic Coach powered by Gemini Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
